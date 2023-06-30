@@ -2,7 +2,11 @@
 # Project Title: Line Follower Control Bot with 3D Printed Exterior
 
 ## Project Overview:
-This project involves the design and development of a line follower control bot with a 3D-printed exterior. The 3D structure of the bot is designed using Solidworks software. The aim is to create a robot that can follow a line autonomously using infrared sensors and motor control. The exterior of the robot is finished using 3D printing technology, providing a customized and visually appealing appearance.
+This project involves the design and development of a line follower control bot with a 3D-printed exterior. The 3D structure of the bot is designed using Solidworks software. The aim is to create a robot that can autonomously follow a line. The exterior of the robot is finished using 3D printing technology, providing a customized and visually appealing appearance.
+
+## Specifications:
+- Speed: 80 - 100 mm/second
+- Line Thickness: 3mm
 
 ## Tech Used:
 1. Arduino UNO
@@ -24,4 +28,5 @@ This project involves the design and development of a line follower control bot 
 8. 8-7.5
 9. 9-3.41
 B-B': 2
+
 
